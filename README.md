@@ -1,8 +1,5 @@
 # Splunk Core Certified Power User — Complete Technical Notes
 
-This README contains **full coverage** of the Splunk Core Certified Power User (SPLK-1002) certification topics.  
-All commands, syntax, options, and examples are included in one document for easy reference.
-
 ---
 
 ## 1. Transforming Commands for Visualizations
@@ -285,4 +282,3 @@ Normalize `src_ip`, `source_ip`, and `client_ip` → `src`.
 
 ---
 
-**End of Document** — All certification topics, commands, syntax, and examples in one page.
